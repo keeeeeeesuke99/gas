@@ -12,5 +12,3 @@ const USERID = "Uc2ad0c0960ecce07eddc58afdac750e4";
 // googleChatを使用する場合は下記URLを最新化する。下記のURLのボットは削除済み
 const CHAT_URL = "https://chat.googleapis.com/v1/spaces/AAAAdadS0ho/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=TDLSGJRTv-JC_3yv1H5d37czMhyTRWizXxGBYiDLMX4%3D";
 
-var lineToken = "nQ0yFzIxHrSPWWSWhdTe48o5ZJDxj8ddmzOqDgnDPsU"; //LINEトークン
-

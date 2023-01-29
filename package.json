@@ -1,0 +1,26 @@
+{
+  "name": "gas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keeeeeeesuke99/gas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keeeeeeesuke99/gas/issues"
+  },
+  "homepage": "https://github.com/keeeeeeesuke99/gas#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.57"
+  }
+}

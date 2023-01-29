@@ -33,7 +33,7 @@ function postGmailToLine(){
 }
 
 /**
- * 前日から当日にかけて受信したgmailのうち、特定の条件を満たすものを検索し結果をリストで返却する
+ * 受信したgmailのうち、特定の条件を満たすものを検索し結果をリストで返却する
  */
 function searchGmail(){
   var searchQuery = getSearchQuery();

@@ -1,2 +1,5 @@
 .clasp.json
 appsscript.json
+.clasprc.json
+node_modules/
+creds.json
